@@ -216,37 +216,19 @@ body {
 }
 
 .logo {
-
       width: 50%;
 }
-
-.white{
-
-      height: 300px;
-      width: 100%;
-      right: 0;
-      left: 0;
-
-
-
-      background-color: #1F2823 ;
+.logo h1 {
+      width: fit-content;
+      cursor: none;
+}
+.under-graduate-section {
+      background-color: #1F2823;
+      top: -6rem;
+      display: flex;
       position: relative;
       z-index: -1;
-      top: -6rem;
-      overflow: hidden;
 }
-
-.our{
-      border: 2px solid white;
-      top: 3rem;
-      text-align: center;
-      font-size: 2rem;
-
-      position: relative;
-}
-
-.collection{
-      background-color: aliceblue;
-      border-radius: 0.5rem;
-
+.our-collection h3 {
+      margin-top: 5rem;
 }
